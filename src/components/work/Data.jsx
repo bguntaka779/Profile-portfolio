@@ -14,31 +14,33 @@ export const projectsData = [
     image: whack_a_mole,
     title: 'Mole Master Challenge',
     category: 'web',
+    link : 'https://github.com/bguntaka779/Mole-Master-Challenge',
   },
   {
     id: 2,
     image: StickyNotes,
     title: 'Sticky Notes',
     category: 'Web',
+    link : 'https://github.com/bguntaka779/Sticky-Notes'
   },
-  {
-    id: 3,
-    image: Work2,
-    title: 'App movil',
-    category: 'app',
-  },
-  {
-    id: 4,
-    image: Work3,
-    title: 'Brand design',
-    category: 'design',
-  },
-  {
-    id: 5,
-    image: Work4,
-    title: 'App movil',
-    category: 'app',
-  },
+  // {
+  //   id: 3,
+  //   image: Work2,
+  //   title: 'App movil',
+  //   category: 'app',
+  // },
+  // {
+  //   id: 4,
+  //   image: Work3,
+  //   title: 'Brand design',
+  //   category: 'design',
+  // },
+  // {
+  //   id: 5,
+  //   image: Work4,
+  //   title: 'App movil',
+  //   category: 'app',
+  // },
   
 ];
 
@@ -50,9 +52,9 @@ export const projectsNav = [
     name: 'Web',
   },
   {
-    name: 'app',
+    name: 'Full-Stack',
   },
-  {
-    name: 'design',
-  },
+  // {
+  //   name: 'design',
+  // },
 ];
