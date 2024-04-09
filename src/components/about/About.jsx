@@ -2,8 +2,8 @@ import React from 'react';
 import './about.css';
 // import AboutImg from '../../assets/about.jpg';
 import AboutImg from '../../assets/bh.jpg';
-import CV from '../../assets/Smith-Cv.pdf';
 import Info from './Info';
+import Resume from '../../assets/Bharath_Resume.pdf';
 
 const About = () => {
   return (
@@ -31,7 +31,7 @@ const About = () => {
           </p>
 
 
-          <a download='' href={CV} className='button button--flex'>
+          <a download='' href={Resume} className='button button--flex'>
             Download CV
             <svg
               className='button__icon'
